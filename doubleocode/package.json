@@ -1,6 +1,6 @@
 {
-  "name": "security-analyzer",
-  "displayName": "security-analyzer",
+  "name": "doubleocode",
+  "displayName": "DoubleOCode",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -13,7 +13,7 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "security-analyzer.helloWorld",
+      "command": "doubleocode.helloWorld",
       "title": "Hello World"
     }]
   },
